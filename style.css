@@ -4,7 +4,6 @@ body {
 	font-style: normal;
 	font-family: arial, helvetica, sans-serif;
 	font-size: 14px;
-
 }
 
 h1 {
@@ -19,3 +18,16 @@ h2  {
 	text-decoration: overline;
 	text-transform: capitalize;
 	font-size: 1.5em;
+}
+a   {
+	text-decoration: none;
+}
+strong {
+	font-style: italic;
+	text-transform: uppercase;
+}
+p {
+	letter-spacing: 0.5em;
+	word-spacing: 2em;
+	line-height: 1.5;
+	text-align: center;
