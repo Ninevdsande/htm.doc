@@ -2,9 +2,16 @@
 body {
     font-size: 14px;
     color: navy;
+	font-style: normal;
+
 }
 
 h1 {
 	color: #ffc;
 	background-color: #009;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
 }
+h2  {
+	text-decoration: overline;
