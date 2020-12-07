@@ -1,8 +1,9 @@
 
 body {
-    font-size: 14px;
     color: navy;
 	font-style: normal;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 14px;
 
 }
 
@@ -12,6 +13,9 @@ h1 {
 	font-weight: bold;
 	font-style: italic;
 	font-variant: small-caps;
+	font-size: 2em;
 }
 h2  {
 	text-decoration: overline;
+	text-transform: capitalize;
+	font-size: 1.5em;
